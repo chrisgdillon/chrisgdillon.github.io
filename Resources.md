@@ -14,7 +14,7 @@ title:
 categories: Projects
 ---
 
-## Week _: A Break from Speaker Design
+## Week _: <title>
 
 
 ### Materials:
